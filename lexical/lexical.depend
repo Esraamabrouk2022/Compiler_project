@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703799627 source:f:\phase 2\lexical\main.cpp
+	<iostream>
+	<vector>
+	<cstring>
+

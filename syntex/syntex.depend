@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703766966 source:f:\phase 2\syntex\main.cpp
+	<iostream>
+	<conio.h>
+
